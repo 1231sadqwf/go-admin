@@ -19,6 +19,7 @@
     由<a href="https://github.com/z-song/laravel-admin" target="_blank">laravel-admin</a>启发
 </p>
 
+
 ## 前言
 
 GoAdmin 可以帮助你的golang应用快速实现数据可视化，搭建一个数据管理平台。
